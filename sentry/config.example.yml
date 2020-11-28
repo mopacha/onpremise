@@ -8,9 +8,9 @@
 ###############
 
 # mail.backend: 'smtp'  # Use dummy if you want to disable email entirely
-mail.host: 'smtp.qq.com'
-mail.port: 25
-# mail.username: ''
+mail.host: 'smtp.exmail.qq.com'
+mail.port: 465
+mail.username: 'wangpeng@sensorsdata.cn'
 # mail.password: ''
 mail.use-tls: true
 # The email address to send on behalf of
