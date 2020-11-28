@@ -34,7 +34,7 @@ mail.host: 'smtp'
 # If this file ever becomes compromised, it's important to generate a new key.
 # Changing this value will result in all current sessions being invalidated.
 # A new key can be generated with `$ sentry config generate-secret-key`
-system.secret-key: '!!changeme!!'
+system.secret-key: '9hoayb=@akr2%4^04dygp*whi&ypodujoakp&e0q&%q!_wl!eo'
 
 # The ``redis.clusters`` setting is used, unsurprisingly, to configure Redis
 # clusters. These clusters can be then referred to by name when configuring
