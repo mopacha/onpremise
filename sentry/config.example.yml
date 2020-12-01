@@ -9,12 +9,13 @@
 
 # mail.backend: 'smtp'  # Use dummy if you want to disable email entirely
 mail.host: 'smtp'
-# mail.port: 25
-# mail.username: ''
-# mail.password: ''
-# mail.use-tls: false
-# The email address to send on behalf of
-# mail.from: 'root@localhost'
+mail.host: 'smtp.exmail.qq.com'
+mail.port: 587
+mail.username: 'xxx@sensorsdata.cn'
+mail.password: 'xxxx'
+mail.use-tls: true
+#  The email address to send on behalf of
+mail.from: 'xxx@sensorsdata.cn'
 
 # If you'd like to configure email replies, enable this.
 # mail.enable-replies: true
